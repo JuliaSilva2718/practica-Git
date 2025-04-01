@@ -10,7 +10,6 @@
 # Dudas
 
 - Extensive tooling
-- Staging area
 - (Github): bug tracking, feature requests, task management, wikis
 - ci/cd
 - SemVer
