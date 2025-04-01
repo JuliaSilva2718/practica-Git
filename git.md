@@ -13,6 +13,7 @@
 - Staging area
 - (Github): bug tracking, feature requests, task management, wikis
 - ci/cd
+- SemVer
 
 # Comandos dudas 
 - ls -a
@@ -24,4 +25,7 @@
 
 # Notas
 
-- La U a un lado de cada file representa (untracked)
+- U a un lado de cada file representa (untracked)
+- A (added)
+- M (modified)
+
